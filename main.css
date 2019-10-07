@@ -601,6 +601,8 @@ input[type="submit"]:hover{
     }
 
     .profile-img{
+        width: 40rem;
+        height: 80rem;
         margin: 0 0 7rem 0;
     }
 
